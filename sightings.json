@@ -1,0 +1,7 @@
+[{"Day":"Monday","Rabbits":0,"Birds":3,"Squirrels":1},
+{"Day":"Tuesday","Rabbits":1,"Birds":1,"Squirrels":2},
+{"Day":"Wednesday","Rabbits":2,"Birds":2,"Squirrels":1},
+{"Day":"Thursday","Rabbits":0,"Birds":3,"Squirrels":1},
+{"Day":"Friday","Rabbits":2,"Birds":2,"Squirrels":1},
+{"Day":"Saturday","Rabbits":1,"Birds":3,"Squirrels":2},
+{"Day":"Sunday","Rabbits":0,"Birds":3,"Squirrels":1}]
